@@ -1,4 +1,3 @@
-import {} from "@std/collections";
 import { unzip } from "@std/collections";
 
 const real = true;
